@@ -1,0 +1,20 @@
+banana
+apple
+pear
+grape
+orange
+lime
+kiwi
+tomato
+clementine
+watermelon
+pineapple
+cherry
+strawberry
+coconut
+pomegranate
+avocado
+dragon fruit
+peach
+cantaloupe
+blueberry
